@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\antcl\\workspace\\AIDLDemo\\src\\com\\example\\aidldemo\\ICat.aidl
+ * Original file: D:\\eclipse-java-luna-SR2-win32-x86_64\\workspace\\AIDLDemo\\src\\com\\example\\aidldemo\\ICat.aidl
  */
 package com.example.aidldemo;
 public interface ICat extends android.os.IInterface

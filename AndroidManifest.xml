@@ -23,7 +23,11 @@
             </intent-filter>
         </activity>
         
-        <service android:name="com.example.aidldemo.AidlService"></service>
+        <service android:name="com.example.aidldemo.AidlService">
+            <intent-filter >
+                <action android:name="com.example.aidldemo.action.AIDL_SERVICE"/>
+            </intent-filter>
+        </service>
     </application>
 
 </manifest>
